@@ -13,8 +13,8 @@ sqlgen.py MY_TABLE
 example
 ========
 
-![Example](https://cumulus13.github.io/sqlgen.gif "example use w3schools.com")
-[zoom](https://cumulus13.github.io/sqlgen_large.gif)
+![Example](https://cumulus13.github.io/img/sqlgen.gif "example use w3schools.com")
+[zoom](https://cumulus13.github.io/img/sqlgen_large.gif)
 
 author
 =======
