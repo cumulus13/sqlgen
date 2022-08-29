@@ -14,7 +14,7 @@ sqlgen.py MY_TABLE
 example
 -----------
 
-<img src="https://cumulus13.github.io/img/sqlgen_large.gif" alt="Example SQLGen" style="height: 100px; width:100px;"/>
+![Example](https://cumulus13.github.io/img/sqlgen.gif "example use w3schools.com")[zoom](https://cumulus13.github.io/img/sqlgen_large.gif)
 
 author
 =======
