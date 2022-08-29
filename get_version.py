@@ -1,8 +1,8 @@
-##################################################
-# get_version_number from file (__version__.py, version.py or system)
-# author: cumulus13 <cumulus13@gmail.com>
-# license: GPL-v2
-##################################################
+####################################################################################
+# get_version_number from file (__version__.py, version.py, __init__.py or system) #
+# author: cumulus13 <cumulus13@gmail.com>                             			   #
+# license: GPL-v2                                                                  #
+####################################################################################
 
 from __future__ import print_function
 
