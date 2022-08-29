@@ -4,23 +4,23 @@ SQLGen
 	SQL Query generator from website (like w3schools.com) to help learn sql
 
 usage
---------
+===========
 
-	```python
-	sqlgen.py MY_TABLE
-	```
+```python
+sqlgen.py MY_TABLE
+```
 
 example
---------
+========
 
-	![Example](https://cumulus13.github.io/sqlgen.gif "example use w3schools.com")[zoom](https://cumulus13.github.io/sqlgen_large.gif)
+![Example](https://cumulus13.github.io/sqlgen.gif "example use w3schools.com")[zoom](https://cumulus13.github.io/sqlgen_large.gif)
 
 author
 =======
 
-	[licface](licface@yahoo.com)
+[licface](licface@yahoo.com)
 
 license
 =========
 
-	MIT
+MIT
