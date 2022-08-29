@@ -2,7 +2,7 @@
 SQLGen
 ===========
 
-	SQL Query generator from website (like w3schools.com) to help learn sql
+	SQL Query generator from website (such as w3schools.com) to help learn sql
 
 usage
 -------------
